@@ -23,7 +23,7 @@ def main():
 	update_id=''
 	global d
 	d={}
-	bot_key='560195331:AAGDggiM9L8R6M-OL4f3g0wMAf9o_WaMLiI'
+	bot_key=''
 	url='https://api.telegram.org/bot'+bot_key+'/getUpdates'
 	print('The URL is: '+url)
 
